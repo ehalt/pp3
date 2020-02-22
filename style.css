@@ -85,17 +85,24 @@ section {
     float: left;
 }
 
+.wrap {
+    width:80%;
+    margin: 0 auto;
+}
+
 .cent {
     text-align: center;
     margin-top: 5%;
 }
 
 .img1 img {
-    width:30%;
+    width:28%;
     float: left;
-    margin-left: 2.2%;
+    margin-left: 4%;
     margin-top: 5%;
 }
+
+
 
 
 /* Client section */
